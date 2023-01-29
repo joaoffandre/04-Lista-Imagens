@@ -1,0 +1,9 @@
+@media(max-width:1350px){
+    body{
+        height: 100%;
+    }
+    .section{
+        flex-direction: column;
+        margin-block:45px;
+    }
+}
