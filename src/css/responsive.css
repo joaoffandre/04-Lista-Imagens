@@ -1,9 +1,12 @@
-@media(max-width:1350px){
-    body{
-        height: 100%;
-    }
+@media(max-width:1401px){
     .section{
-        flex-direction: column;
-        margin-block:45px;
+        margin-block:4.5rem;
+        max-width:700px;
+        gap:0px;
+    }
+
+    .caixa{
+        max-width: 336px;
+        max-height: 431px;
     }
 }
